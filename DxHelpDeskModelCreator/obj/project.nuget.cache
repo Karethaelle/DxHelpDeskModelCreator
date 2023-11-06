@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HSXe7QtAX9NXwslD3S6p4CBw74NNUEdPpBPLLAeLT+we2Z2oBj/KsIY7UyQENjNFSvtTHTCsDlsGYTuH4p8yug==",
+  "dgSpecHash": "55D6XfnKlqlg9u/RU8mkgTO4H4OMlkezMuYBQTsys6dWSTsHiO2y6ZCXf8e1U0ncsc1eCQv7GnB8GUGmY/76PA==",
   "success": true,
-  "projectFilePath": "D:\\BERT\\NEW-HELPDESK\\DxHelpDeskModelCreator\\DxHelpDeskModelCreator\\DxHelpDeskModelCreator.csproj",
+  "projectFilePath": "D:\\BERT\\DxHelpDesk\\DxHelpDeskModelCreator\\DxHelpDeskModelCreator\\DxHelpDeskModelCreator.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dvrds\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\dvrds\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.12\\microsoft.entityframeworkcore.7.0.12.nupkg.sha512",

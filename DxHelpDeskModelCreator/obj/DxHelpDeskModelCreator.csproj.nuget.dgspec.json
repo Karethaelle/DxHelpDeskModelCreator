@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\BERT\\NEW-HELPDESK\\DxHelpDeskModelCreator\\DxHelpDeskModelCreator\\DxHelpDeskModelCreator.csproj": {}
+    "D:\\BERT\\DxHelpDesk\\DxHelpDeskModelCreator\\DxHelpDeskModelCreator\\DxHelpDeskModelCreator.csproj": {}
   },
   "projects": {
-    "D:\\BERT\\NEW-HELPDESK\\DxHelpDeskModelCreator\\DxHelpDeskModelCreator\\DxHelpDeskModelCreator.csproj": {
+    "D:\\BERT\\DxHelpDesk\\DxHelpDeskModelCreator\\DxHelpDeskModelCreator\\DxHelpDeskModelCreator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\BERT\\NEW-HELPDESK\\DxHelpDeskModelCreator\\DxHelpDeskModelCreator\\DxHelpDeskModelCreator.csproj",
+        "projectUniqueName": "D:\\BERT\\DxHelpDesk\\DxHelpDeskModelCreator\\DxHelpDeskModelCreator\\DxHelpDeskModelCreator.csproj",
         "projectName": "DxHelpDeskModelCreator",
-        "projectPath": "D:\\BERT\\NEW-HELPDESK\\DxHelpDeskModelCreator\\DxHelpDeskModelCreator\\DxHelpDeskModelCreator.csproj",
+        "projectPath": "D:\\BERT\\DxHelpDesk\\DxHelpDeskModelCreator\\DxHelpDeskModelCreator\\DxHelpDeskModelCreator.csproj",
         "packagesPath": "C:\\Users\\dvrds\\.nuget\\packages\\",
-        "outputPath": "D:\\BERT\\NEW-HELPDESK\\DxHelpDeskModelCreator\\DxHelpDeskModelCreator\\obj\\",
+        "outputPath": "D:\\BERT\\DxHelpDesk\\DxHelpDeskModelCreator\\DxHelpDeskModelCreator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages",
