@@ -1,1 +1,5 @@
 Scaffold-DbContext "Server=localhost;Database=dxhelpdesk;Uid=root;Pwd=B1u3g@t35Cub3Inc2016;Port=3308;default command timeout=1200;SslMode=Preferred;Convert Zero Datetime=True;" Pomelo.EntityFrameworkCore.MySql -OutputDir Entities\Models -Context DxHelpDeskDBContext -f
+
+
+#migration
+Add-Migration InitialCreate
